@@ -37,6 +37,6 @@ working with vector 3
 serializefields
 
 ### Try
-<a href="<a href="https://5ahmnm1920mtin-3h.github.io/home-WebGL-movingBall-celpratter/">Try moving ball</a>
+<a href="https://5ahmnm1920mtin-3h.github.io/home-WebGL-movingBall-celpratter/">Try moving ball</a>
 
 copyright by celpratter
