@@ -28,11 +28,12 @@ WebGL has to be installed
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-50%
+100%
 
 ### Limitations: 
 
 ### Lessons Learned: 
-
+working with vector 3
+serializefields
 
 copyright by celpratter
